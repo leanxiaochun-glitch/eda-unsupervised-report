@@ -1,6 +1,6 @@
 ---
 name: eda-unsupervised-report
-description: 对 CSV、TSV 或 XLSX 结构化数据生成中文“可视化探索 + 无监督学习”融合报告，包含数据质量体检、严格预处理、单变量与交互可视化、PCA/t-SNE、KMeans/Ward 聚类、可选标签的事后验证、风险池分析、Markdown 与 PDF 导出。适用于用户要求 EDA、降维聚类、无监督结构探索、风险分层、类似公司破产数据分析报告，或明确要求调用 eda-unsupervised-report 时；支持金融、制造、医疗、零售、运营等不同领域。
+description: 对 CSV、TSV 或 XLSX 结构化数据生成中文“可视化探索 + 无监督学习”融合报告，包含数据质量体检、严格预处理、单变量与交互可视化、PCA/t-SNE、KMeans/Ward 聚类、可选标签的事后验证、风险池分析、Markdown 与 PDF 导出。适用于用户要求 EDA、降维聚类、无监督结构探索、风险分层、类似上市公司财务舞弊检测数据集的探索分析报告，或明确要求调用 eda-unsupervised-report 时；支持金融、制造、医疗、零售、运营等不同领域。
 agent_created: true
 ---
 
